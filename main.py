@@ -37,12 +37,5 @@ def main():
 
     pdf.output('Test.pdf', 'F')
 
-
-
-
-
-
-
-
 if __name__ == '__main__':
     main()
